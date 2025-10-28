@@ -1,0 +1,45 @@
+# 🤖 A Rebelião dos Bots – Podcast IA
+
+Bem-vindo ao repositório do **A Rebelião dos Bots**, um podcast criado com ajuda de **Inteligência Artificial**, que tem como objetivo **ensinar tecnologia para iniciantes** de forma leve e divertida. 🚀
+
+---
+
+## 🎧 Episódio 1 — "Do zero ao código"
+
+> “Todo dev já foi iniciante um dia — o importante é começar a digitar!”
+
+Neste episódio, exploramos:
+- A origem da programação com **Ada Lovelace**;
+- O que é um **algoritmo**;
+- E como o **JavaScript** se tornou a linguagem mais popular da web.
+
+---
+
+## 🧩 Estrutura do projeto
+
+```
+prompts/     → prompts usados nas ferramentas de IA  
+roteiro/     → texto completo do episódio  
+assets/      → capa e trilha sonora  
+output/      → áudio final do episódio  
+```
+
+---
+
+## 🧠 Ferramentas utilizadas
+
+| Etapa | Ferramenta | Função |
+|-------|-------------|--------|
+| Roteiro | ChatGPT | Criação do texto e roteiro |
+| Voz | ElevenLabs | Geração da voz do podcast |
+| Capa | IA de Imagem (ex: Midjourney ou Leonardo AI) | Criação da arte |
+| Edição | CapCut / Audacity | Ajustes e finalização do áudio |
+
+---
+
+## 📜 Créditos
+Projeto desenvolvido por **Andrielly Nascimento**  
+Atividade prática baseada no curso da **DIO – Digital Innovation One**.
+
+## 🪄 Licença
+Uso livre para fins educacionais.
