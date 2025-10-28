@@ -37,6 +37,18 @@ output/      → áudio final do episódio
 
 ---
 
+<p align="center">
+  <img src="assets/capa_episodio1.png" alt="Capa do podcast A Rebelião dos Bots" width="400px">
+</p>
+
+🎧 **Episódio 1 — “Do zero ao código”**  
+Ouça o episódio completo abaixo 👇  
+
+<audio controls>
+  <source src="output/episodio1_audio_final.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
+
 ## 📜 Créditos
 Projeto desenvolvido por **Andrielly Nascimento**  
 Atividade prática baseada no curso da **DIO – Criando um Podcast com IAs Generativas**.
