@@ -43,7 +43,7 @@ output/      → áudio final do episódio
 
 🎧 **Episódio 1 — “Do zero ao código”**  
 Ouça o episódio completo abaixo 👇  
-[Clique aqui para reproduzir o áudio](./output/episodio1_audio_final.mp3)
+[**Clique aqui para reproduzir o áudio**](https://raw.githubusercontent.com/Andrynasc/a-rebeliao-dos-bots/main/output/episodio1_audio_final.mp3)
 
 ## 📜 Créditos
 Projeto desenvolvido por **Andrielly Nascimento**  
