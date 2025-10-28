@@ -44,8 +44,7 @@ output/      → áudio final do episódio
 🎧 **Episódio 1 — “Do zero ao código”**  
 Ouça o episódio completo abaixo 👇  
 
-<audio controls>
-  <source src="output/episodio1_audio_final.mp3" type="audio/mpeg">
+<audio controls src="./output/episodio1_audio_final.mp3">
 </audio>
 
 ## 📜 Créditos
