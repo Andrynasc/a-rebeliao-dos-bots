@@ -32,14 +32,14 @@ output/      → áudio final do episódio
 |-------|-------------|--------|
 | Roteiro | ChatGPT | Criação do texto e roteiro |
 | Voz | ElevenLabs | Geração da voz do podcast |
-| Capa | IA de Imagem (ex: Midjourney ou Leonardo AI) | Criação da arte |
+| Capa | IA de Imagem (ChatGPT) | Criação da arte |
 | Edição | CapCut / Audacity | Ajustes e finalização do áudio |
 
 ---
 
 ## 📜 Créditos
 Projeto desenvolvido por **Andrielly Nascimento**  
-Atividade prática baseada no curso da **DIO – Digital Innovation One**.
+Atividade prática baseada no curso da **DIO – Criando um Podcast com IAs Generativas**.
 
 ## 🪄 Licença
 Uso livre para fins educacionais.
