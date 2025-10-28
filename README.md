@@ -46,7 +46,6 @@ Ouça o episódio completo abaixo 👇
 
 <audio controls>
   <source src="output/episodio1_audio_final.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
 </audio>
 
 ## 📜 Créditos
