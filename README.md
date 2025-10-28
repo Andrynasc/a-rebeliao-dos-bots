@@ -44,8 +44,7 @@ output/      → áudio final do episódio
 🎧 **Episódio 1 — “Do zero ao código”**  
 Ouça o episódio completo abaixo 👇  
 
-<audio controls src="./output/episodio1_audio_final.mp3">
-</audio>
+<audio controls src="./output/episodio1_audio_final.mp3"></audio>
 
 ## 📜 Créditos
 Projeto desenvolvido por **Andrielly Nascimento**  
