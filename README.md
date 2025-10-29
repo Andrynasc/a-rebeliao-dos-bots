@@ -8,7 +8,7 @@
 Ouça o episódio completo abaixo 👇  
 
 <audio controls>
-  <source src="https://github.com/Andrynasc/a-rebeliao-dos-bots/raw/main/output/episodio1_audio_final.mp3" type="audio/mpeg">
+  <source src="https://github.com/Andrynasc/a-rebeliao-dos-bots/releases/download/ep_1/episodio1_audio_final.mp3" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
 ---
