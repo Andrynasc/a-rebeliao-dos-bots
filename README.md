@@ -1,14 +1,16 @@
 # 🤖 A Rebelião dos Bots – Podcast IA
 
 <p align="center">
-  <img src="assets/capa_episodio1.png" alt="Capa do podcast A Rebelião dos Bots" width="400px">
+  <img src="https://raw.githubusercontent.com/Andrynasc/a-rebeliao-dos-bots/main/assets/capa_episodio1.png" 
+       alt="Capa do podcast A Rebelião dos Bots" width="400px">
 </p>
 
 🎧 **Episódio 1 — “Do zero ao código”**  
 Ouça o episódio completo abaixo 👇  
 
 <audio controls>
-  <source src="output/episodio1_audio_final.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/Andrynasc/a-rebeliao-dos-bots/main/output/episodio1_audio_final.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
 </audio>
 
 ---
